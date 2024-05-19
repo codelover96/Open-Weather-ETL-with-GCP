@@ -4,7 +4,7 @@
 This project utilizes Google Cloud Platform and Python 3 to generate real time reports about weather conditions from 5 selected locations.
 
 ## Architecture
-![Project Architecture](/project-arch.png "Looker Studio Report")
+![Project Architecture](/project_arch.png "Looker Studio Report")
 
 ## Overview
 1. Exctract raw data (json) from Open Weather API endpoints using python
@@ -15,5 +15,5 @@ This project utilizes Google Cloud Platform and Python 3 to generate real time r
 6. Create a real-time dashboard with Looker Studio.
 
 
-![Example Looker Studio Report with current weather and forecasted weather reports](Looker%20Studio%20Reports/looker_studio_report.JPG "Looker Studio Report")
+![Example Looker Studio Report with current weather and forecasted weather reports](/Looker%20Studio%20Reports/looker_studio_report.JPG "Looker Studio Report")
 
