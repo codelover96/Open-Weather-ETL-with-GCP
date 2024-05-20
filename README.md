@@ -15,5 +15,5 @@ This project utilizes Google Cloud Platform and Python 3 to generate real time r
 6. Create a real-time dashboard with Looker Studio.
 
 
-![Example Looker Studio Report with current weather and forecasted weather reports](/Looker%20Studio%20Reports/looker_studio_report.JPG "Looker Studio Report")
+![Example Looker Studio Report with current weather and forecasted weather reports](Looker%20Studio%20Reports/looker_studio_report.JPG "Looker Studio Report")
 
