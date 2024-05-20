@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-is_local_environment = True  # set ot false before deploy to GCP
+is_local_environment = True  # set to false before deploy to GCP
 
 cwd = os.getcwd()
 keys_dir = os.path.join(cwd, "keys")
