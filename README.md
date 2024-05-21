@@ -4,7 +4,7 @@
 This project utilizes Google Cloud Platform and Python 3 to generate real time reports about weather conditions from 5 selected locations.
 
 ## Project Architecture
-![Project Architecture](/project_arch.png "project architecture")
+![Project Architecture](/project_architecture.png "project architecture")
 
 ## Overview
 1. Exctract raw data (json) from Open Weather API endpoints using python requests
@@ -29,8 +29,8 @@ Weather data is fetched from two available API endpoints and is transformed with
 
 ## How to deploy
 1. Install package requirements
-2. Place your open weather key, your google project id, your bucket name and dataset id in a nameless .env file
-3. Store your google storage and big query service account keys in a folder names 'keys'
+2. Place your open weather key, your Google project id, your bucket name and dataset id in a nameless .env file
+3. Store your Google storage and big query service account keys in a folder names 'keys'
 
 
 ## Contributing
